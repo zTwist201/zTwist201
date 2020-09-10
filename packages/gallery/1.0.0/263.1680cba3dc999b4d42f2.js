@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[263],{187:function(e){e.exports=JSON.parse('{"Gallery.Favorites":"Favoris","Gallery.Search":"Chercher"}')}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[225],{568:function(a,e){a.exports="/packages/gallery/latest/8f0d243659e8a30fd7ad846873f2020d.svg"}}]);

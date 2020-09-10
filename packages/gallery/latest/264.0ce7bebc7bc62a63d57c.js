@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[264],{188:function(e){e.exports=JSON.parse('{"Gallery.Favorites":"Yêu thích","Gallery.Search":"Tìm kiếm"}')}}]);
